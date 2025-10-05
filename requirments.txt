@@ -1,0 +1,11 @@
+streamlit 
+google-generativeai 
+pinecone-client 
+pymupdf 
+deepgram-sdk 
+python-dotenv 
+google-search-results
+google-genai 
+streamlit_mic_recorder 
+Pillow
+groq sentence-transformers
